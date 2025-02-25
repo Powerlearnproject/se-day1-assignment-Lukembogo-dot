@@ -18,13 +18,22 @@ The birth of programming languages (such as C and Fortran), the discipline of so
 Breakdown
 Programming Language Development (1950s–1970s) - Software development began with early languages like C (1972) and Fortran (1957). One of the earliest high-level programming languages was Fortran, which made coding easier for people. Strong low-level programming features were introduced by C, which had an impact on following languages like Python and C++.
 The discipline of software engineering was established in the (1960s) - Software engineering was officially recognised as a field during the 1968 NATO Software Engineering Conference.  This was a reaction to the software crisis, in which unsuccessful projects were caused by subpar software development techniques.  It encouraged software lifecycle management and structured approaches.
-
+The (1970s) saw the introduction of structured programming. Introduced ideas that increased the maintainability and dependability of software. Driven by top-down design techniques and languages like Pascal. Modular, legible code was used in place of unstructured coding (such as the overuse of GOTO instructions).
+Agile Methodologies' Ascent (2000s–Present) - Rigid waterfall frameworks had been replaced by agile, which was codified in the Agile Protocol (2001). Promoted flexibility, teamwork, and iterative development. Scrum and Kanban are two examples of frameworks that have become industry standards for effective project management.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+  - Requirements: Gathering and documenting user needs and system requirements.
+  - Design: Creating high-level and detailed designs of the software architecture and user interface.
+  - Implementation: Writing code and building the software according to the design specifications.
+  - Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+  - Deployment: Releasing the software to users or customers.
+  - Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall Methodology
 
+Minimal Customer Involvement: Clients usually see the final product only after development is finished.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
