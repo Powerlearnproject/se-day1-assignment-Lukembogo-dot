@@ -8,7 +8,7 @@ Explain what software engineering is and discuss its importance in the technolog
 ANSWER
 Software engeneering is the structured method of creating, testing, deploying, and maintaining software applications.It ensures efficiency, consistency, scalability, and maintainability in software development by applying engineering concepts.
 Importance.
- Software engineering plays a crucial role in the technology industry by enabling the creation of reliable, scalable, and innovative software solutions that meet user needs.
+Software engineering plays a crucial role in the technology industry by enabling the creation of reliable, scalable, and innovative software solutions that meet user needs.
 - Boosts Efficiency: Methodologies for structured development, such as Agile, DevOps, and Scrum, increase output and optimise processes.
 - Drives Innovation: The foundation of cutting-edge technologies like blockchain, artificial intelligence, and the Internet of Things, software engineering is influencing the direction of technology.
 - Improves Security: By incorporating cybersecurity best practices into software engineering, data and systems are shielded from risks.
@@ -50,17 +50,17 @@ ANSWER
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 ANSWER
- A Software Developer is responsible for writing, testing, and maintaining software applications. They turn project requirements into functional code.
+-A Software Developer is responsible for writing, testing, and maintaining software applications. They turn project requirements into functional code.
 Roles
 - Designing, coding, and implementing software solutions
 - Writing documentation for code and software systems.
 - Debugging and troubleshooting issues.
-A QA Engineer ensures that software meets quality standards before deployment, they basically identify bugs and improve overall system reliability.
+-A QA Engineer ensures that software meets quality standards before deployment, they basically identify bugs and improve overall system reliability.
 Roles
 - Writing and executing test cases both manual and automated.
 - Establish development guidelines and processes for the programmers to follow.
 - Ensuring software meets user requirements and industry standards.
-A Project Manager oversees the entire software development lifecycle, ensuring projects are completed on time and within budget.
+-A Project Manager oversees the entire software development lifecycle, ensuring projects are completed on time and within budget.
 Roles
 - Defining project scope, goals, and deliverables.
 - Managing team workflows and deadlines.
