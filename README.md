@@ -5,7 +5,6 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-ANSWER
 Software engeneering is the structured method of creating, testing, deploying, and maintaining software applications.It ensures efficiency, consistency, scalability, and maintainability in software development by applying engineering concepts.
 Importance.
 Software engineering plays a crucial role in the technology industry by enabling the creation of reliable, scalable, and innovative software solutions that meet user needs.
@@ -15,7 +14,6 @@ Software engineering plays a crucial role in the technology industry by enabling
 - Lowers Costs & Risks: Adhering to best practices lowers maintenance expenses, minimises software malfunctions, and guarantees long-term viability.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-ANSWER
  The birth of programming languages (such as C and Fortran), the discipline of software engineering's formation in the 1960s, the introduction of structured programming in the 1970s, and the emergence of agile approaches in the 2000s are some of the significant events.
 Breakdown
 - Programming Language Development (1950s–1970s) - Software development began with early languages like C (1972) and Fortran (1957). One of the earliest high-level programming languages was Fortran, which made coding easier for people. Strong low-level programming features were introduced by C, which had an impact on following languages like Python and C++.
@@ -24,7 +22,6 @@ The discipline of software engineering was established in the (1960s) - Software
 - Agile Methodologies' Ascent (2000s–Present) - Rigid waterfall frameworks had been replaced by agile, which was codified in the Agile Protocol (2001). Promoted flexibility, teamwork, and iterative development. Scrum and Kanban are two examples of frameworks that have become industry standards for effective project management.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-ANSWER
   - Requirements: Gathering and documenting user needs and system requirements.
   - Design: Creating high-level and detailed designs of the software architecture and user interface.
   - Implementation: Writing code and building the software according to the design specifications.
@@ -34,7 +31,6 @@ ANSWER
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-ANSWER
  Waterfall Methodology
 - Sequential & Linear: Each phase Requirements → Design → Implementation → Testing → Deployment which must be completed before moving to the next.
 - Minimal Customer Involvement: Clients usually see the final product only after development is finished.
@@ -49,18 +45,17 @@ ANSWER
 - Adaptive to Change: Easily accommodates evolving or unclear requirements.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-ANSWER
--A Software Developer is responsible for writing, testing, and maintaining software applications. They turn project requirements into functional code.
+A Software Developer is responsible for writing, testing, and maintaining software applications. They turn project requirements into functional code.
 Roles
 - Designing, coding, and implementing software solutions
 - Writing documentation for code and software systems.
 - Debugging and troubleshooting issues.
--A QA Engineer ensures that software meets quality standards before deployment, they basically identify bugs and improve overall system reliability.
+A QA Engineer ensures that software meets quality standards before deployment, they basically identify bugs and improve overall system reliability.
 Roles
 - Writing and executing test cases both manual and automated.
 - Establish development guidelines and processes for the programmers to follow.
 - Ensuring software meets user requirements and industry standards.
--A Project Manager oversees the entire software development lifecycle, ensuring projects are completed on time and within budget.
+A Project Manager oversees the entire software development lifecycle, ensuring projects are completed on time and within budget.
 Roles
 - Defining project scope, goals, and deliverables.
 - Managing team workflows and deadlines.
